@@ -1,0 +1,22 @@
+In this phase, we’ll define how to approach the development process and what specifications are required for the system.
+
+HARDWARE REQUIREMENTS:
+Processor: Intel P-IV system
+Processor Speed: 250MHz to 833MHz
+RAM: 512MB RAM
+Hard Disk: 40GB
+
+SOFTWARE REQUIREMENTS:
+Operating System: Windows XP
+Database: SQL Server
+Server Side Technology: ASP.Net
+Server Side Scripting: ASP
+Client Side Scripting: HTML
+Web Server: IIS
+
+Define the scope:
+The scope of the Student Feedback System focuses on enhancing communication between students, faculty, and administration regarding course quality, teaching methods, and university facilities. Functional requirements include anonymous and structured feedback submission, feedback tracking, analytical report generation, and a notification system for reminders and responses. Additionally, user management capabilities for administrators are included. Non-functional requirements emphasize usability through an intuitive interface, performance with quick response times, robust security measures for data protection, and compliance with data protection laws and university policies.
+
+Select deployment methodology:
+ITERATIVE MODEL
+The iterative model focuses on the development process being divided into small, manageable cycles or iterations. Each iteration includes phases of planning, design, implementation, testing, and feedback. At the end of each cycle, a working version of the Student Feedback System is delivered, allowing stakeholders—students, faculty, and administrators—to review and provide input. This feedback is then used to refine and improve the system in subsequent iterations. By continually revisiting and enhancing the feedback system based on user insights, the iterative model ensures that the final product effectively meets the evolving needs of its users.

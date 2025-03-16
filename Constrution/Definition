@@ -3,3 +3,5 @@ In this phase, we will build a code based on the models we have created.
 We will create,
 - A backend code (creating a database)
 - A frontend code 
+
+Then we will test the code and resolve any possible bugs.

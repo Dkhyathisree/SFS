@@ -1,1 +1,5 @@
-In this phase we will build a code based the created models
+In this phase, we will build a code based on the models we have created.
+
+We will create,
+- A backend code (creating a database)
+- A frontend code 

@@ -3,6 +3,7 @@ Students:
 Provide feedback on courses, instructors adn university facilities.
 Access feedback history and track responses to submitted feedback.
 Submit anonymous feedback to ensure privacy and honesty.
+Receive notifications about surveys and feedback deadlines.
 
 Faculty:
 Receive feedback from students regarding courses and teaching methodologies.
@@ -21,7 +22,7 @@ Ensure system security and data confidentiality.
 Configure feedback forms and questionnaires as required. 
 Maintain and update the system to ensure smooth operation.
 
-System requirements:
+System requirements:-
 Functional Requirements: 
 User Authentication & Authorization: Secure login system with role-based access. 
 Feedback Submission: Allow users to submit structured feedback via predefined templates. 
@@ -31,6 +32,7 @@ Report Generation: Generate graphical and textual reports for faculty and admini
 Notification System: Send alerts and notifications about pending feedback requests. 
 Data Export: Support exporting reports in various formats (CSV, PDF, etc.). 
 Survey Management: Enable administrators to create and manage feedback surveys. 
+
 Non-Functional Requirements: 
 Security: Implement encryption and access controls to protect user data. 
 Scalability: Support increasing users and feedback entries efficiently. 

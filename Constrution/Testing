@@ -1,0 +1,20 @@
+Test Case 1: Submit Feedback
+Test Case ID:	TC001
+Description:	Verify that a student can successfully submit anonymous feedback on a course.
+Output: A confirmation message displays: Your feedback has been successfully submitted.
+
+Test Case 2: View Feedback History
+Test Case ID	TC002
+Description:	Verify that a student can view their feedback history.
+Output: The system displays a list of all feedback submissions made by the student, including:
+Course names
+Submission dates
+Feedback ratings (e.g., 1 to 5 stars)
+
+Test Case 3: Generate Feedback Report (For Faculty/Administrators)
+Test Case ID:	TC003
+Description:	Verify that faculty can generate a feedback report for a course.
+Output: The system generates and displays a summary report showing:
+Average rating for the course (e.g., 4.2 out of 5).
+Common themes extracted from student comments.
+Distribution of ratings (e.g., "20% 5-star, 50% 4-star, 20% 3-star, 10% 1-2 stars").

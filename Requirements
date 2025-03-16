@@ -6,4 +6,35 @@ Submit anonymous feedback to ensure privacy and honesty.
 
 Faculty:
 Receive feedback from students regarding courses and teaching methodologies.
+View summarized reports of student feedback to improve course content. 
+Access historical feedback trends for self-improvement.
 
+University Administration: 
+Monitor overall feedback trends to enhance university policies and services. 
+Analyze department-specific feedback to improve academic and non-academic facilities. 
+Generate reports based on student and faculty feedback. 
+Take necessary actions based on system-generated insights. 
+
+System Administrators: 
+Manage user access and authentication. 
+Ensure system security and data confidentiality. 
+Configure feedback forms and questionnaires as required. 
+Maintain and update the system to ensure smooth operation.
+
+System requirements:
+Functional Requirements: 
+User Authentication & Authorization: Secure login system with role-based access. 
+Feedback Submission: Allow users to submit structured feedback via predefined templates. 
+Anonymous Feedback: Provide an option for students to submit feedback anonymously. 
+Feedback Analysis: Aggregate and analyze feedback data to generate insights. 
+Report Generation: Generate graphical and textual reports for faculty and administration. 
+Notification System: Send alerts and notifications about pending feedback requests. 
+Data Export: Support exporting reports in various formats (CSV, PDF, etc.). 
+Survey Management: Enable administrators to create and manage feedback surveys. 
+Non-Functional Requirements: 
+Security: Implement encryption and access controls to protect user data. 
+Scalability: Support increasing users and feedback entries efficiently. 
+Usability: Provide an intuitive and user-friendly interface. 
+Performance: Ensure fast response times and real-time data processing. 
+Availability: Guarantee system uptime with minimal downtime. 
+Compliance: Adhere to data protection laws and university policies.
